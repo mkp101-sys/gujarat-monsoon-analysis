@@ -1,0 +1,22 @@
+# Findings from the data
+
+- Total Gujarat rainfall over 01 Jul to 26 Oct 2026: 571 mm (area mean).
+- Monthly rainfall: Jul 357 mm (63% of total), Aug 107 mm (19% of total), Sep 107 mm (19% of total), Oct 0 mm (0% of total).
+- Wettest day in Gujarat was 24 Jul with 59.9 mm (area mean).
+- Wettest week started 20 Jul with 187 mm (area mean).
+- Wettest district: Valsad (1682 mm); driest: Devbhumi Dwarka (219 mm). Ratio wettest to driest: 7.7x.
+- The five wettest districts received 29% of the district-summed rainfall.
+- Highest temperature in any district: 42.0 °C in Kachchh; hottest Gujarat-mean hour was 14 Oct 09:00 UTC.
+- Warmest district on average: Kachchh (29.9 °C); coolest: The Dangs (26.4 °C).
+- Lowest Gujarat-mean pressure: 985.0 hPa on 31 Jul; pressure rose from 992 hPa (Jul mean) to 1003 hPa (Oct mean).
+- Heavy 3-day spells (>=30 mm) occurred between 03 Jul and 16 Sep; the last one ended 16 Sep, after which rain was mostly light.
+- Longest dry spell (all days below 1 mm): 36 days, 21 Sep to 26 Oct.
+- Longest wet spell (all days at least 1 mm): 23 days, 14 Jul to 05 Aug.
+- Most heavy-rain days (>=20 mm): Valsad (18 days); 0 districts had none.
+- Most intense rainfall per rain hour: Valsad (0.81 mm); least: Devbhumi Dwarka (0.13 mm).
+- Highest convective share of rainfall: Banas Kantha (66%); lowest: The Dangs (31%).
+- Hours with a district maximum of at least 40 °C: most in Kachchh (25 hours); 3 of 33 districts reached 40 °C at least once.
+- Daily correlation: pressure vs rainfall r = -0.50; temperature vs rain-hour share r = -0.53; convective rate vs rainfall r = 0.90.
+- Across districts, mean pressure vs total rainfall r = -0.35.
+- Week with the most districts receiving at least 100 mm: week of 20 Jul (27 districts).
+- Districts under 50 mm by month: Jul 0, Aug 0, Sep 0, Oct 33.

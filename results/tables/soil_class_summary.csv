@@ -1,0 +1,6 @@
+soil_code,name,grid_cells,rain_mm_total_mean,rain_hours_pct_mean,convective_share_pct_mean,temp_mean_C,pressure_mean_hPa
+0,Reserved / no class (likely water),12,368.78,65.35,44.42,28.48,1004.97
+1,Sand,5,358.33,29.29,59.3,29.94,999.09
+2,Loamy sand,90,524.69,47.27,49.27,28.95,997.53
+3,Sandy loam,55,431.37,38.32,45.0,29.71,999.91
+4,Silt loam,99,725.79,54.78,40.16,28.53,993.51

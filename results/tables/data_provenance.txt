@@ -1,0 +1,5 @@
+Producer: European Centre for Medium-Range Weather Forecasts (generating process 145)
+Grid: regular_ll, 21 x 29 points, step type: instant
+Variables: 2t, cp, crr, ptype, slt, sp, tp
+Period: 2026-07-01 00:00:00 to 2026-10-26 17:00:00 (2826 hours)
+Note: the file has forecast-style step numbers. Confirm the exact product name from the download source.

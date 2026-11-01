@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+analysis_outputs/
+baseline*.grib
+*.log
+.DS_Store
+results/reference/colab_run_analysis_outputs/
