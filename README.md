@@ -26,7 +26,6 @@ gujarat-monsoon-analysis/
 │   └── gujarat_monsoon_analysis.ipynb   # Colab notebook (main entry point)
 ├── src/
 │   ├── gujarat_monsoon_analysis.py      # same pipeline as a plain Python script
-├── .github/workflows/pipeline.yml       # CI: runs the pipeline and verifies it on every push
 ├── data/
 │   ├── data_grib.zip                    # ECMWF GRIB file (zipped, ~11 MB)
 │   └── gujarat_districts.kml            # 33 district boundaries
@@ -255,7 +254,8 @@ Running the pipeline writes to `analysis_outputs/` (112 PNG charts and 17 CSV ta
 ## Author
 
 Maharshi K. Patel
-DAIICT (Dhirubhai Ambani Institute of Information and Communication Technology) · IIRS-ISRO
+
+[DAIICT (Dhirubhai Ambani Institute of Information and Communication Technology) · IIRS-ISRO]
 
 ---
 
