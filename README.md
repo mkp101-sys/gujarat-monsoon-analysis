@@ -252,13 +252,10 @@ Running the pipeline writes to `analysis_outputs/` (112 PNG charts and 17 CSV ta
 6. **Boundaries.** The KML's district list may not match the current official list in every detail. Check names against the latest official source for formal use.
 
 ---
+## Author
 
-## Roadmap
-
-- Validate the July rainfall against IMD gridded data and district rain gauges.
-- Add a multi-year baseline (for example 1991–2020) to measure how unusual 2026 was.
-- Add elevation, drainage and river data to the flood-risk index, and test different weights.
-- Add wind and humidity fields to study rainfall mechanisms and heat stress.
+Maharshi K. Patel
+DAIICT (Dhirubhai Ambani Institute of Information and Communication Technology) · IIRS-ISRO
 
 ---
 
