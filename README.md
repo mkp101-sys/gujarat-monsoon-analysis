@@ -26,21 +26,16 @@ gujarat-monsoon-analysis/
 │   └── gujarat_monsoon_analysis.ipynb   # Colab notebook (main entry point)
 ├── src/
 │   ├── gujarat_monsoon_analysis.py      # same pipeline as a plain Python script
-│   └── verify_outputs.py                # checks a new run against the reference run
 ├── .github/workflows/pipeline.yml       # CI: runs the pipeline and verifies it on every push
 ├── data/
 │   ├── data_grib.zip                    # ECMWF GRIB file (zipped, ~11 MB)
 │   └── gujarat_districts.kml            # 33 district boundaries
 ├── results/
 │   ├── analysis_outputs.zip             # every table and chart from the final run (112 PNG)
-│   ├── reference/
-│   │   └── colab_run_analysis_outputs.zip  # reference run used for verification (Colab)
 │   ├── insights.md                      # automatically generated findings
 │   ├── soil_insights.md                 # soil-type findings
 │   ├── tables/                          # key CSV tables (district summary, flood-risk index, ...)
 │   └── figures/                         # selected charts used in this README
-├── docs/
-│   └── linkedin_post.md                 # announcement post
 ├── requirements.txt
 ├── .gitignore
 └── README.md
